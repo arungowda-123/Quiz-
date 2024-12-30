@@ -16,4 +16,5 @@ Dynamic Score Display:
 
 After completing the quiz, the user is presented with their score and a personalized message:
 Better luck next time!
-
+![image](https://github.com/arungowda-123/Quiz-/blob/main/Screenshot%202024-12-30%20165742.png)
+![image]()
